@@ -1,0 +1,17 @@
+{
+    "name": "liutao\/structure",
+    "description": "php data structure",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liutao",
+            "email": "i@liutao.me"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liutao\\Structure\\": "src"
+        }
+    }
+}
